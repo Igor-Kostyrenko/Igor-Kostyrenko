@@ -3,10 +3,11 @@
 ## Experience:
 
 * 2008 – Present day   Bank  Pivdenny
-Head of Department of Technical Security Equipment   - alarm systems, video surveillance, access control, security system design, network equipment configuration, server installation.
+Head of Department of Technical Security Equipment   - windows servers, alarm systems, video surveillance, access control, security system design, network equipment configuration, server installation.
 * 2006 – 2008   Bank  Nadra
-Any key  -  network configuration, setting up computers, connecting computers and peripheral devices.
-Education:
+Any key  -  network configuration, monitoring, set up windows servers, connecting computers and peripheral devices.
+
+##Education:
 * 2001-2006  Bachelor in Odesa National Academy of Telecommunications
 
 ## IT Certifications and courses:
