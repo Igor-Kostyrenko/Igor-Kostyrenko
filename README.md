@@ -22,4 +22,4 @@ Any key  -  network configuration, monitoring, set up windows servers, connectin
 
  #### LinkedIn:  https://linkedin.com/in/igor-kostyrenko-15590a231
  
- English - pre intermediate
+ English - intermediate
