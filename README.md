@@ -7,7 +7,7 @@ Head of Department of Technical Security Equipment   - windows servers, alarm sy
 * 2006 – 2008   Bank  Nadra
 Any key  -  network configuration, monitoring, set up windows servers, connecting computers and peripheral devices.
 
-##Education:
+## Education:
 * 2001-2006  Bachelor in Odesa National Academy of Telecommunications
 
 ## IT Certifications and courses:
