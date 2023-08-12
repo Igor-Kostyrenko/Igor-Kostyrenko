@@ -11,7 +11,8 @@ Any key  -  network configuration, monitoring, set up windows servers, connectin
 * 2001-2006  Bachelor in Odesa National Academy of Telecommunications
 
 ## IT Certifications and courses:
-
+* Google Associate Cloud Engineer
+* Prometheus - DevOps Fundamentals and Kubernete
 * Hillel IT School  - DevOps Advanced 2023
 * PortaOne Education Center   -  Linux & Network Administration
 * RedHat  - Red Hat System Administration I (RHEL8)
