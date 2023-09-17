@@ -18,6 +18,7 @@
 * Virtualization basics
 
 <h3 align="left">Connect with me:</h3>
+
 #### LinkedIn:  https://linkedin.com/in/igor-kostyrenko-15590a231
 #### mail: xevis84@gmail.com
  
