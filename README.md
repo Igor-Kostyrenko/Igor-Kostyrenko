@@ -1,11 +1,6 @@
-# Summary
+### DevOps engineer 
 			          
-## Experience:
 
-* 2008 – Present day   Bank  Pivdenny
-Head of Department of Technical Security Equipment   - windows servers, alarm systems, video surveillance, access control, security system design, network equipment configuration, server installation.
-* 2006 – 2008   Bank  Nadra
-Any key  -  network configuration, monitoring, set up windows servers, connecting computers and peripheral devices.
 
 ## Education:
 * 2001-2006  Bachelor in Odesa National Academy of Telecommunications
@@ -22,5 +17,5 @@ Any key  -  network configuration, monitoring, set up windows servers, connectin
 * Virtualization basics
 
  #### LinkedIn:  https://linkedin.com/in/igor-kostyrenko-15590a231
+ #### mail: xevis84@gmail.com
  
- English - intermediate
