@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
 #### LinkedIn:  https://linkedin.com/in/igor-kostyrenko-15590a231
-#### mail: xevis84@gmail.com
+#### mail: kostirenkoigor@gmail.com
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igor-kostyrenko&label=Profile%20views&color=0e75b6&style=flat" alt="igor-kostyrenko" /> </p>
