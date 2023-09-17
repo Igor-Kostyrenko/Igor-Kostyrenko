@@ -7,6 +7,9 @@
   </a>
 </p>
 
+[![My Skills]([https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter](https://skillicons.dev/icons?i=aws,gcp,git,github,kubernetes,docker,ansible,linux,bash,jenkins,vim,mysql,nginx,py,vscode)&perline=3)](https://skillicons.dev)
+
+
 ## Education:
 * 2001-2006  Bachelor in Odesa National Academy of Telecommunications
 
